@@ -229,5 +229,12 @@
         "function": "AI Search Crawlers",
         "frequency": "Unclear at this time.",
         "description": "Applebot is a web crawler used by Apple to index search results that allow the Siri AI Assistant to answer user questions. Siri's answers normally contain references to the website. More info can be found at https://darkvisitors.com/agents/agents/applebot"
+    },
+    "Webzio-Extended": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Data Scrapers",
+        "frequency": "Unclear at this time.",
+        "description": "Webzio-Extended is a web crawler used by Webz.io to maintain a repository of web crawl data that it sells to other companies, including those using it to train AI models. More info can be found at https://darkvisitors.com/agents/agents/webzio-extended"
     }
 }
