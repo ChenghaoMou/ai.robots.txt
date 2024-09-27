@@ -236,5 +236,12 @@
         "function": "AI Data Scrapers",
         "frequency": "Unclear at this time.",
         "description": "Webzio-Extended is a web crawler used by Webz.io to maintain a repository of web crawl data that it sells to other companies, including those using it to train AI models. More info can be found at https://darkvisitors.com/agents/agents/webzio-extended"
+    },
+    "Kangaroo Bot": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Data Scrapers",
+        "frequency": "Unclear at this time.",
+        "description": "Kangaroo Bot is used by the company Kangaroo LLM to download data to train AI models tailored to Australian language and culture. More info can be found at https://darkvisitors.com/agents/agents/kangaroo-bot"
     }
 }
